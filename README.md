@@ -10,7 +10,7 @@
 ⠀⠀⠀⠀⠀⠙⠼⠀⠀⠀⠀⠿⠋
  . .౨ৎ
   𓂃⋆.˚
-      
+
       
  "𝘏𝘮𝘮 𝘩𝘮𝘮~ 𝘰𝘩! 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦! 𝘚𝘰𝘳𝘳𝘺 𝘧𝘰𝘳 𝘭𝘢𝘵𝘦 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘦, 𝘣𝘶𝘵 𝘐 𝘴𝘸𝘦𝘢𝘳 𝘐'𝘭𝘭 𝘤𝘰𝘰𝘬 𝘺𝘰𝘶 𝘴𝘰𝘮𝘦 𝘧𝘳𝘦𝘦 𝘱𝘢𝘴𝘵𝘳𝘪𝘦𝘴!"
 <p align="center"> <img width="700" height="375" alt="Twitter-removebg-preview" src="https://github.com/user-attachments/assets/84b24f20-eb5c-46e8-95a9-1f9cab099ecb" />
@@ -18,13 +18,13 @@
 <p align="right"> "..𝘞𝘩𝘪𝘭𝘦 𝘺𝘰𝘶'𝘳𝘦 𝘸𝘢𝘪𝘵𝘪𝘯𝘨, 𝘤𝘰𝘶𝘭𝘥 𝘺𝘰𝘶 𝘢𝘭𝘴𝘰 𝘴𝘪𝘨𝘯 𝘰𝘶𝘳 𝘈𝘵𝘢𝘣𝘰𝘰𝘬? 𝘑𝘶𝘴𝘵 𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘦𝘷𝘦𝘳𝘺𝘰𝘯𝘦 𝘨𝘰𝘵 𝘵𝘩𝘦𝘪𝘳 𝘱𝘢𝘴𝘵𝘳𝘪𝘦𝘴!" ᯓ★
 <p align="center"> 
 <a href= https://pienesville.atabook.org/ > 
-<img src="https://img.shields.io/badge/Atabook-Visit-FFB6C1?style=for-the-badge"" alt="Sign my Atabook Guestbook">
+<img src="https://img.shields.io/badge/Atabook-Visit-EBF2B3?style=for-the-badge"" alt="Sign my Atabook Guestbook">
 </a>
 </p>
 
 <p align="center">
 <a href=https://pinessketchbook.straw.page > 
-<img src="https://img.shields.io/badge/Straw.page-Visit-FFB6C1?style=for-the-badge"" alt="Sketch my strawpage">
+<img src="https://img.shields.io/badge/Straw.page-Visit-FFA257?style=for-the-badge"" alt="Sketch my strawpage">
 </a>
 </p>
 
@@ -34,6 +34,18 @@
 
 <p align="center"> * ੈ✩‧₊˚✮˚. ᵎᵎ 𖦹彡⋆｡˚ 
 <p align="center"> <img width="498" height="281" alt="lees-detective-agency-hung" src="https://github.com/user-attachments/assets/2d1860bf-22e8-4b63-823d-0440392be3b9" />
+
+<p align="center"> ᴡᴇ ᴀʟꜱᴏ ʜᴀᴠᴇ ᴏᴜʀ ᴏᴡɴ ᴀʀᴛ "ᴅᴜᴍᴘ" ᴀᴄᴄᴏᴜɴᴛ, ᴘʟᴇᴀꜱᴇ, ᴅᴏ ᴘᴀʏ ᴀ ᴠɪꜱɪᴛ ᴛᴏᴏ!
+<p align="left">
+<a href= https://x.com/immafvcingyou?s >
+<img src="https://img.shields.io/badge/Main Twitter-Visit-B3EBF2?style=for-the-badge"" alt="Dump art">
+</a>
+</p>
+<p align="right">
+<a href= https://www.instagram.com/pineatz_/ >
+<img src="https://img.shields.io/badge/Main Instagram-Visit-2E6C7B?style=for-the-badge"" alt="Dump art">
+</a>
+</p>
 
 <p align="center"> ₜₕₐₙₖ ᵧₒᵤ ᵳₒᵣ 𝓬ₒₘᵢₙ𝑔!
 
