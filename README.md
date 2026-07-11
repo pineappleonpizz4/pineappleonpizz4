@@ -33,19 +33,26 @@
 </p>
 
 <p align="center"> * ੈ✩‧₊˚✮˚. ᵎᵎ 𖦹彡⋆｡˚ 
-<p align="center"> <img width="498" height="281" alt="lees-detective-agency-hung" src="https://github.com/user-attachments/assets/2d1860bf-22e8-4b63-823d-0440392be3b9" />
 
 <p align="center"> ᴡᴇ ᴀʟꜱᴏ ʜᴀᴠᴇ ᴏᴜʀ ᴏᴡɴ ᴀʀᴛ "ᴅᴜᴍᴘ" ᴀᴄᴄᴏᴜɴᴛ, ᴘʟᴇᴀꜱᴇ, ᴅᴏ ᴘᴀʏ ᴀ ᴠɪꜱɪᴛ ᴛᴏᴏ!
-<p align="left">
+<p align="center">
+<a href= https://www.tiktok.com/@pineeyaple_art >
+<img src="https://img.shields.io/badge/Tiktok-Visit-ffe5d9?style=for-the-badge"" alt="Dump video">
+</a>
+</p>
+ 
+<p align="center">
 <a href= https://x.com/immafvcingyou?s >
-<img src="https://img.shields.io/badge/Main Twitter-Visit-B3EBF2?style=for-the-badge"" alt="Dump art">
+<img src="https://img.shields.io/badge/Main Twitter-Visit-ffd7ba?style=for-the-badge"" alt="Dump art">
 </a>
 </p>
-<p align="right">
+<p align="center">
 <a href= https://www.instagram.com/pineatz_/ >
-<img src="https://img.shields.io/badge/Main Instagram-Visit-2E6C7B?style=for-the-badge"" alt="Dump art">
+<img src="https://img.shields.io/badge/Main Instagram-Visit-fec89a?style=for-the-badge"" alt="Dump art">
 </a>
 </p>
+
+<p align="center"> <img width="498" height="281" alt="lees-detective-agency-hung" src="https://github.com/user-attachments/assets/2d1860bf-22e8-4b63-823d-0440392be3b9" />
 
 <p align="center"> ₜₕₐₙₖ ᵧₒᵤ ᵳₒᵣ 𝓬ₒₘᵢₙ𝑔!
 
