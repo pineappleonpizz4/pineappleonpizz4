@@ -1,74 +1,32 @@
- <p align="center"> ⋆.˚ ᡣ𐭩 .𖥔˚ ⠀⢀⠤⠤⢄⡀
-   
-   ⠀⠀⠀⠀⠀⠀
-⠀⠏⠀⠀⠀⠈⠳⡄⠀⠀⡠⠚⠁⠀⠀⠀⠘⡄
-⢸⠀⠀⠀⠤⣤⣤⡆⠀⠈⣱⣤⣴⡄⠀⠀⠀⡇
-⠘⡀⠀⠀⠀⠀⢈⣷⠤⠴⢺⣀⠀⠀⠀⠀⢀⡇
-⠀⠡⣀⣀⣤⠶⠻⡏⠀⠀⢸⡟⠙⣶⡤⠤⠼
-⠀⠀⢠⡾⠉⠀⢠⡆⠀⠀⢸⠃⠀⠈⢻⣆
-⠀⠀⣿⣠⢶⣄⠀⡇⠀⠀⠘⠃⣀⡤⢌⣈⡀⠀
-⠀⠀⠀⠀⠀⠙⠼⠀⠀⠀⠀⠿⠋
- . .౨ৎ
-  𓂃⋆.˚
-
-      
- "𝘏𝘮𝘮 𝘩𝘮𝘮~ 𝘰𝘩! 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦! 𝘚𝘰𝘳𝘳𝘺 𝘧𝘰𝘳 𝘭𝘢𝘵𝘦 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘦, 𝘣𝘶𝘵 𝘐 𝘴𝘸𝘦𝘢𝘳 𝘐'𝘭𝘭 𝘤𝘰𝘰𝘬 𝘺𝘰𝘶 𝘴𝘰𝘮𝘦 𝘧𝘳𝘦𝘦 𝘱𝘢𝘴𝘵𝘳𝘪𝘦𝘴!"
-<p align="center"> <img width="700" height="375" alt="Twitter-removebg-preview" src="https://github.com/user-attachments/assets/84b24f20-eb5c-46e8-95a9-1f9cab099ecb" />
-
-<p align="right"> "..𝘞𝘩𝘪𝘭𝘦 𝘺𝘰𝘶'𝘳𝘦 𝘸𝘢𝘪𝘵𝘪𝘯𝘨, 𝘤𝘰𝘶𝘭𝘥 𝘺𝘰𝘶 𝘢𝘭𝘴𝘰 𝘴𝘪𝘨𝘯 𝘰𝘶𝘳 𝘈𝘵𝘢𝘣𝘰𝘰𝘬? 𝘑𝘶𝘴𝘵 𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘦𝘷𝘦𝘳𝘺𝘰𝘯𝘦 𝘨𝘰𝘵 𝘵𝘩𝘦𝘪𝘳 𝘱𝘢𝘴𝘵𝘳𝘪𝘦𝘴!" ᯓ★
+<p align="center">
+── ⋆⋅☆⋅⋆ ˚.🦴 ᵎᵎ ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ ──
+<p align="center">
+"𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐡𝐨𝐦𝐞 𝐌𝐚𝐬𝐭𝐞𝐫 𝐏𝐫𝐨𝐱𝐲, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐭𝐚𝐤𝐞 𝐚 𝐬𝐞𝐚𝐭 𝐰𝐞 𝐰𝐢𝐥𝐥 𝐦𝐚𝐤𝐞 𝐬𝐮𝐫𝐞 𝐲𝐨𝐮'𝐫𝐞 𝐜𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞."
 <p align="center"> 
-<a href= https://pienesville.atabook.org/ > 
-<img src="https://img.shields.io/badge/Atabook-Visit-EBF2B3?style=for-the-badge"" alt="Sign my Atabook Guestbook">
+── 𝖵𝖮𝖭 𝖫𝖸𝖢𝖠𝖮𝖭
+<p align="center"> <img width="666" height="375" alt="LYCAON hehe" src="https://github.com/user-attachments/assets/95d19c2d-0f28-4be7-b78f-6bd8a0f0280e" />
+<p align="center">
+ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
+<p align="center">
+"𝖸𝗈𝗎𝗋 𝗌𝗂𝗀𝗇𝖺𝗍𝗎𝗋𝖾 𝗌𝗂𝗀𝗇 𝗈𝗇 𝗈𝗎𝗋 𝗀𝗎𝖾𝗌𝗍𝖻𝗈𝗈𝗄, 𝗂𝖿 𝗒𝗈𝗎'𝖽 𝗅𝗂𝗄𝖾 𝗍𝗈 𝗈𝗋𝖽𝖾𝗋 𝗌𝗈𝗆𝖾 𝖿𝗈𝗈𝖽 𝗈𝗋 𝖻𝖾𝗏𝖾𝗋𝖺𝗀𝖾𝗌."
+<p align="center"> 
 </a>
-</p>
-
-<p align="center">
-<a href=https://pinessketchbook.straw.page > 
-<img src="https://img.shields.io/badge/Straw.page-Visit-FFA257?style=for-the-badge"" alt="Sketch my strawpage">
-</a>
-</p>
-
-<p align="center">
-  ✦ ───────── ✦
-</p>
-
-<p align="center"> * ੈ✩‧₊˚✮˚. ᵎᵎ 𖦹彡⋆｡˚ 
-
-<p align="center"> ᴡᴇ ᴀʟꜱᴏ ʜᴀᴠᴇ ᴏᴜʀ ᴏᴡɴ ᴀʀᴛ "ᴅᴜᴍᴘ" ᴀᴄᴄᴏᴜɴᴛ, ᴘʟᴇᴀꜱᴇ, ᴅᴏ ᴘᴀʏ ᴀ ᴠɪꜱɪᴛ ᴛᴏᴏ!
-<p align="center">
-<a href= https://www.tiktok.com/@pineeyaple_art >
-<img src="https://img.shields.io/badge/Tiktok-Visit-ffe5d9?style=for-the-badge"" alt="Dump video">
-</a>
-</p>
- 
-<p align="center">
-<a href= https://x.com/immafvcingyou?s >
-<img src="https://img.shields.io/badge/Main Twitter-Visit-ffd7ba?style=for-the-badge"" alt="Dump art">
+<a href= https://pienesville.atabook.org/ >
+<img src="https://img.shields.io/badge/Sign Ata Book-Visit-BEBFC5?style=for-the-badge" > 
 </a>
 </p>
 <p align="center">
-<a href= https://www.instagram.com/pineatz_/ >
-<img src="https://img.shields.io/badge/Main Instagram-Visit-fec89a?style=for-the-badge"" alt="Dump art">
+</a>
+<a href=https://pinessketchbook.straw.page >
+<img src="https://img.shields.io/badge/Straw Sketch-Visit-848482?style=for-the-badge" > 
 </a>
 </p>
-
-<p align="center"> <img width="498" height="281" alt="lees-detective-agency-hung" src="https://github.com/user-attachments/assets/2d1860bf-22e8-4b63-823d-0440392be3b9" />
-
-<p align="center"> ₜₕₐₙₖ ᵧₒᵤ ᵳₒᵣ 𝓬ₒₘᵢₙ𝑔!
-
-
-
-<!--
-**pineappleonpizz4/pineappleonpizz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+ ⋆.˚✮☽☯︎☾✮˚.⋆ "𝐘𝐨𝐮 𝐜𝐚𝐧 𝐥𝐞𝐚𝐫𝐧 𝐚𝐛𝐨𝐮𝐭 𝐮𝐬 𝐦𝐨𝐫𝐞 𝐨𝐧 𝐨𝐮𝐫 𝐚𝐫𝐭 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬!"  ✩₊˚.⋆☾𓃠☽⋆⁺₊✧
+<p align="center"> <img width="666" height="375" alt="download__1_-removebg-preview" src="https://github.com/user-attachments/assets/c12ffa9f-8abb-47a3-bf7c-c18425a6756a" />
+<p align="center">
+</a> 
+<a href= https://www.instagram.com/pineatz_/ > <a href= https://x.com/immafvcingyou?s > <a href= https://www.tiktok.com/@pineeyaple_art >
+<img src="https://img.shields.io/badge/Instagram-Visit-FEFEFA?style=for-the-badge" > <img src="https://img.shields.io/badge/Twitter-Visit-E5E4E2?style=for-the-badge" > <img src="https://img.shields.io/badge/Tik Tok-Visit-353839?style=for-the-badge" = ╾━╤デ╦︻
+</a>
+</p> 
