@@ -26,7 +26,19 @@
 <p align="center"> <img width="666" height="375" alt="download__1_-removebg-preview" src="https://github.com/user-attachments/assets/c12ffa9f-8abb-47a3-bf7c-c18425a6756a" />
 <p align="center">
 </a> 
-<a href= https://www.instagram.com/pineatz_/ > <a href= https://x.com/immafvcingyou?s > <a href= https://www.tiktok.com/@pineeyaple_art >
-<img src="https://img.shields.io/badge/Instagram-Visit-FEFEFA?style=for-the-badge" > <img src="https://img.shields.io/badge/Twitter-Visit-E5E4E2?style=for-the-badge" > <img src="https://img.shields.io/badge/Tik Tok-Visit-353839?style=for-the-badge" 
+<a href= https://www.instagram.com/pineatz_/ > 
+<img src="https://img.shields.io/badge/Instagram-Visit-FEFEFA?style=for-the-badge" > 
+</a>
+</p> 
+<p align="center">
+</a>
+<a href= https://x.com/immafvcingyou?s >
+<img src="https://img.shields.io/badge/Twitter-Visit-E5E4E2?style=for-the-badge" >
+</a>
+</p> 
+<p align="center">
+</a>
+<a href= https://www.tiktok.com/@pineeyaple_art >
+<img src="https://img.shields.io/badge/Tik Tok-Visit-353839?style=for-the-badge" 
 </a>
 </p> 
