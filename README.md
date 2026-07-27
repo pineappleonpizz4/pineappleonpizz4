@@ -27,6 +27,6 @@
 <p align="center">
 </a> 
 <a href= https://www.instagram.com/pineatz_/ > <a href= https://x.com/immafvcingyou?s > <a href= https://www.tiktok.com/@pineeyaple_art >
-<img src="https://img.shields.io/badge/Instagram-Visit-FEFEFA?style=for-the-badge" > <img src="https://img.shields.io/badge/Twitter-Visit-E5E4E2?style=for-the-badge" > <img src="https://img.shields.io/badge/Tik Tok-Visit-353839?style=for-the-badge" = ╾━╤デ╦︻
+<img src="https://img.shields.io/badge/Instagram-Visit-FEFEFA?style=for-the-badge" > <img src="https://img.shields.io/badge/Twitter-Visit-E5E4E2?style=for-the-badge" > <img src="https://img.shields.io/badge/Tik Tok-Visit-353839?style=for-the-badge" 
 </a>
 </p> 
