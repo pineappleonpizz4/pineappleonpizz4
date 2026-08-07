@@ -17,8 +17,8 @@
 </p>
 <p align="center">
 </a>
-<a href=https://pinessketchbook.straw.page >
-<img src="https://img.shields.io/badge/Straw Sketch-Visit-848482?style=for-the-badge" > 
+<a href=https://rentry.co/ahv2xr6i >
+<img src="https://img.shields.io/badge/Rentry (Intro)-Visit-848482?style=for-the-badge" > 
 </a>
 </p>
 <p align="center"> 
