@@ -10,8 +10,6 @@
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 <p align="center">
 <img width="498" height="498" alt="snakebite-zzz" src="https://github.com/user-attachments/assets/c5c49e1b-3176-478d-adfa-dd39da7050d1" />
-<dif align="center">
-<img width="498" height="498" alt="komano-manato-manato-komano" src="https://github.com/user-attachments/assets/c717d845-eab9-4387-9461-eb35acb8cf6b" />
 <p align="center">
 ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ 
 <dif align="center">
