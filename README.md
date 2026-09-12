@@ -13,25 +13,41 @@
 <p align="center">
 ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ 
 <p align="center">
+</a>
 <a href= [https://pienesville.atabook.org/] >
 <img src="https://img.shields.io/badge/ATABOOK-Visit-FFA38F?style=for-the-badge"
-
+</a>
+</p>
+<p align="center">
+</a>
 <a href= [https://https://pineartcomms.straw.page/] >
 <img src="https://img.shields.io/badge/STRAWPAGE-Visit-F56140?style=for-the-badge"
- 
+</a>
+</p>
+<p align="center">
+</a>
 <a href= [https://rentry.co/ahv2xr6i/] >
 <img src="https://img.shields.io/badge/RENTRY-Visit-D4300D?style=for-the-badge"
-</div>
+</a>
+</p>
 <p align="center">
 ────────────────────────────۶ৎ────────────────────────────────
+<p align="center">
 𝙁𝙊𝙇𝙇𝙊𝙒 𝙊𝙐𝙍 𝘼𝙍𝙏 𝘼𝘾𝘾𝙊𝙐𝙉𝙏!
 <p align="center">
+</a>
 <a href= [https://www.instagram.com/pineatz_/] >
 <img src="https://img.shields.io/badge/INSTAGRAM-Visit-969696?style=for-the-badge"
-
+</a>
+</p>
+<p align="center">
+</a>
 <a href= [https://www.tiktok.com/@pineeyaple_art/] >
 <img src="https://img.shields.io/badge/TIKTOK-Visit-616161?style=for-the-badge"
-
+</a>
+</p>
+<p align="center">
+</a>
 <a href= [https://x.com/immafvcingyou/] >
 <img src="https://img.shields.io/badge/TIKTOK-Visit-303030?style=for-the-badge"
 </a>
