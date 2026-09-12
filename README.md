@@ -11,7 +11,7 @@
 <p align="center">
 <img width="498" height="498" alt="snakebite-zzz" src="https://github.com/user-attachments/assets/c5c49e1b-3176-478d-adfa-dd39da7050d1" />
 <p align="center">
-☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ 
+☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★
 <p align="center">
 </a>
 <a href= https://pienesville.atabook.org/>
