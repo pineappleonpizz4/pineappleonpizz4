@@ -12,7 +12,7 @@
 <img width="498" height="498" alt="snakebite-zzz" src="https://github.com/user-attachments/assets/c5c49e1b-3176-478d-adfa-dd39da7050d1" />
 <p align="center">
 ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ ✮ ★ ☆ ☆ ★ 
-<dif align="center">
+<p align="center">
 <a href= [https://pienesville.atabook.org/] >
 <img src="https://img.shields.io/badge/ATABOOK-Visit-FFA38F?style=for-the-badge"
 
@@ -25,7 +25,7 @@
 <p align="center">
 ────────────────────────────۶ৎ────────────────────────────────
 𝙁𝙊𝙇𝙇𝙊𝙒 𝙊𝙐𝙍 𝘼𝙍𝙏 𝘼𝘾𝘾𝙊𝙐𝙉𝙏!
-<dif align="center">
+<p align="center">
 <a href= [https://www.instagram.com/pineatz_/] >
 <img src="https://img.shields.io/badge/INSTAGRAM-Visit-969696?style=for-the-badge"
 
@@ -34,7 +34,9 @@
 
 <a href= [https://x.com/immafvcingyou/] >
 <img src="https://img.shields.io/badge/TIKTOK-Visit-303030?style=for-the-badge"
-</div>
+</a>
+</p>
+
 
 <p align="center">
 <img width="1000" height="563" alt="Mindscape_Komano_Manato_Full" src="https://github.com/user-attachments/assets/7cbcb493-fe87-45b3-b12a-a08c7f19be21" />
