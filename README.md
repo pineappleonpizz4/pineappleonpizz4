@@ -49,7 +49,7 @@
 <p align="center">
 </a>
 <a href= https://x.com/immafvcingyou/>
-<img src="https://img.shields.io/badge/TIKTOK-Visit-303030?style=for-the-badge"
+<img src="https://img.shields.io/badge/X-Visit-303030?style=for-the-badge"
 </a>
 </p>
 
