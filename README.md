@@ -15,19 +15,19 @@
 <p align="center">
 </a>
 <a href= https://pienesville.atabook.org/>
-<img src="https://img.shields.io/badge/ATABOOK-Visit-FFA38F?style=for-the-badge"
+<img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁୨୧คtค๖໐໐k୨୧. ݁₊ ⊹ . ݁˖ . ݁-FFA38F?style=for-the-badge"
 </a>
 </p>
 <p align="center">
 </a>
 <a href= https://https://pineartcomms.straw.page/>
-<img src="https://img.shields.io/badge/STRAWPAGE-Visit-F56140?style=for-the-badge"
+<img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁✦︎ѕтяαωραgє✦︎. ݁₊ ⊹ . ݁˖ . ݁-F56140?style=for-the-badge"
 </a>
 </p>
 <p align="center">
 </a>
 <a href= https://rentry.co/ahv2xr6i/>
-<img src="https://img.shields.io/badge/RENTRY-Visit-D4300D?style=for-the-badge"
+<img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁୨୧яєηтяу ραgє୨୧. ݁₊ ⊹ . ݁˖ . ݁-D4300D?style=for-the-badge"
 </a>
 </p>
 <p align="center">
@@ -37,19 +37,19 @@
 <p align="center">
 </a>
 <a href= https://www.instagram.com/pineatz_/>
-<img src="https://img.shields.io/badge/INSTAGRAM-Visit-969696?style=for-the-badge"
+<img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁: ̗̀➛ιηѕтαgяαм၄၃. ݁₊ ⊹ . ݁˖ . ݁-969696?style=for-the-badge"
 </a>
 </p>
 <p align="center">
 </a>
 <a href= https://www.tiktok.com/@pineeyaple_art/>
-<img src="https://img.shields.io/badge/TIKTOK-Visit-616161?style=for-the-badge"
+<img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖тιктσк♡. ݁₊ ⊹ . ݁˖ . ݁-616161?style=for-the-badge"
 </a>
 </p>
 <p align="center">
 </a>
 <a href= https://x.com/pineatz/>
-<img src="https://img.shields.io/badge/X-Visit-303030?style=for-the-badge"
+<img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁: ̗̀➛тωιттєя/χ၄၃. ݁₊ ⊹ . ݁˖ . ݁-303030?style=for-the-badge"
 </a>
 </p>
 
