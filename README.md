@@ -48,7 +48,7 @@
 </p>
 <p align="center">
 </a>
-<a href= https://x.com/immafvcingyou/>
+<a href= https://x.com/pineatz/>
 <img src="https://img.shields.io/badge/X-Visit-303030?style=for-the-badge"
 </a>
 </p>
