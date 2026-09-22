@@ -20,7 +20,7 @@
 </p>
 <p align="center">
 </a>
-<a href= https://https://pineartcomms.straw.page/>
+<a href= https://pineartcomms.straw.page/>
 <img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁✦︎ѕтяαωραgє✦︎. ݁₊ ⊹ . ݁˖ . ݁-F56140?style=for-the-badge"
 </a>
 </p>
