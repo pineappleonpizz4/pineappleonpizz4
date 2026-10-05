@@ -7,8 +7,8 @@
  
 <p align="center"> <h3>"ᑎEEᗪ ᗰY ᕼEᒪᑭ? ᗯE'ᖇE ᗩᒪᒪ ᖴᖇIEᑎᗪS, ᑎO ᑎEEᗪ TO ᗷE SO ᖴOᖇᗰᗩᒪ."</h3>
 <p align="center">
-<img width="466" height="44" alt="download__14_-removebg-preview" src="https://github.com/user-attachments/assets/0281ead9-2c51-4d37-a42d-ca6d8f8c6e41" />
-<img width="466" height="44" alt="download__14_-removebg-preview" src="https://github.com/user-attachments/assets/268a12ff-1077-400a-8d52-2874eb4eed5e" />
+<img width="581" height="94" alt="0_6f801_5d8dfe01_orig__3648_2703_-removebg-preview" src="https://github.com/user-attachments/assets/f198ef3e-415b-4d6f-b96f-91e7fcc11739" />
+
 <p align="center">
 <img width="498" height="498" alt="snakebite-zzz" src="https://github.com/user-attachments/assets/c5c49e1b-3176-478d-adfa-dd39da7050d1" />
 <p align="center">
