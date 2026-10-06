@@ -52,7 +52,7 @@
 <p align="center">
 </a>
 <a href= https://x.com/pineatz/>
-<img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁: ̗̀➛тωιттєя/χ၄၃. ݁₊ ⊹ . ݁˖ . ݁-303030?style=for-the-badge"
+<img src="https://img.shields.io/badge/. ݁₊ ⊹ . ݁˖ . ݁: ̗̀➛тωιттєя/χ၄၃ 17+ only. ݁₊ ⊹ . ݁˖ . ݁-303030?style=for-the-badge"
 </a>
 </p>
 
