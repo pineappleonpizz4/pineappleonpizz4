@@ -34,7 +34,6 @@
 </p>
 <p align="center">
 <img width="466" height="44" alt="download__14_-removebg-preview" src="https://github.com/user-attachments/assets/7dd98922-4567-4dc4-9a3b-02da059a8492" />
-<img width="466" height="44" alt="download__14_-removebg-preview" src="https://github.com/user-attachments/assets/91335195-667c-45cd-b242-33159fc70bd7" />
 <p align="center">
 𝙁𝙊𝙇𝙇𝙊𝙒 𝙊𝙐𝙍 𝘼𝙍𝙏 𝘼𝘾𝘾𝙊𝙐𝙉𝙏!
 <p align="center">
